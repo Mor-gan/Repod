@@ -16,6 +16,6 @@ git log --graph > ./Folder1/log.txt
 git branch -D morgan-branch
 git push origin -d morgan-nranch
 touch ./Folder1/git_command.md
-fit add ./Folder1/git_command.md
+fit add -f ./Folder1/git_command.md
 git commit -m "command logs"
-git push -u origin dev
+git push -u origin
