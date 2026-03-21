@@ -15,3 +15,13 @@
 14. git add .gitignore
 15. git commit -m "add gitignore"
 16. git push -u origin
+17. git pull
+18. Checkout Abimbola-feature
+19. git revert HEAD
+20. git checkout main
+21. cd ..
+22. git log --graph > ./Git/Github/log.txt
+23. git branch -d username-feature      
+24. git add .
+25. git commit "complete task"
+26. git push -u origin main
