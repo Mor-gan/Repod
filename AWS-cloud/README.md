@@ -4,4 +4,4 @@
 
 2. I edited the security group to and added to allow traffic from SSH and ICMP protocol. 
 
-![alt text]('/Users/bimbo/Desktop/Security groups.png')
+![Securitygroup](Security-groups.png)
