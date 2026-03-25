@@ -5,3 +5,11 @@
 2. I edited the security group to and added to allow traffic from SSH and ICMP protocol. 
 
 ![Securitygroup](Security-groups.png)
+
+![Securitygroup2](Securitygroup2.png)
+
+![Ngixinstall ](Ngxinstall.png)
+
+![pendingvpc](PendingConnection.png)
+
+![Connectingvpc](ConnectingVPC.png)
