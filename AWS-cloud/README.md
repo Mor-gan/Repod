@@ -8,18 +8,21 @@
 
 ![Securitygroup2](Securitygroup2.png)
 
-## 3. I repeated step 1 and 2 to create the second EC2 instance and named it "myfirstserver2", such that I now have two EC2 instances
+## 3. I repeated step 1 and 2 to create the second EC2 instance and named it "myfirstserver2", such that I now have two EC2 instances. However, the second instance is launched on Ubuntu AMI.
 
 ![EC2instances](Twoec2instance.png)
 
-## 4. I ensured the two instances share the same key-pair value 
+## 4. I ensured the two instances share the same key-pair value to allow connection.
 
-![keyvaluepair](keyvaluepair.png)
+![keypair](keyvaluepair.png)
 
-## 5. I lauched and formatted a virtual terminal to connect through ssh
+## 5. I launched and formatted a virtual terminal for instances to connect through ssh
 
 ![instance-terminal](Instance-connection.png)
 
+## 6. I then checked connecton by pinging from one instance to another
+
+![ping](UbuntuAMI.png)
 
 ![Ngixinstall](Ngxinstall.png)
 
