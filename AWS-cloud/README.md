@@ -34,6 +34,8 @@
 
 ## EXTRA STEPS
 
+## Step 9. I recreated step 3 to 6, by creating instances in seperate VPC.
+
 ![pendingvpc](PendingConnection.png)
 
 ![Connectingvpc](ConnectingVPC.png)
