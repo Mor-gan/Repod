@@ -24,15 +24,16 @@
 
 ![ping](UbuntuAMI.png)
 
-## 7. I installed web server (nginx/apache) to the first instance and I created web page with text “Hello World” and information about OS version;
+## Step 7. I installed web server (nginx/apache) to the first instance and I created web page with text “Hello World” and information about OS version;
 
 ![Ngixinstall](Ngxinstall.png)
 
- ## 8. I ensure that in instance without nginx/apache I can see “Hello world” from instance with nginx/apache.
+ ## Step 8. I ensure that in instance without nginx/apache I can see “Hello world” from instance with nginx/apache.
 
  ![curl](curlIntance.png)
 
-EXTRA STEPS
+## EXTRA STEPS
+
 ![pendingvpc](PendingConnection.png)
 
 ![Connectingvpc](ConnectingVPC.png)
