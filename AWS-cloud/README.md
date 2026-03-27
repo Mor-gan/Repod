@@ -4,9 +4,9 @@
 
 ## Step 2. I edited the security group to and added to allow traffic from SSH and ICMP protocol. 
 
+![Securitygroup2](Securitygroup2.png)
 ![Securitygroup](Securitygroups.jpeg)
 
-![Securitygroup2](Securitygroup2.png)
 
 ## Step 3. I repeated step 1 and 2 to create the second EC2 instance and named it "myfirstserver2", such that I now have two EC2 instances. However, the second instance is launched on Ubuntu AMI.
 
