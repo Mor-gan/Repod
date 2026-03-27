@@ -4,7 +4,7 @@
 
 ## Step 2. I edited the security group to and added to allow traffic from SSH and ICMP protocol. 
 
-![Securitygroup](Security-groups.jpeg)
+![Securitygroup](Securitygroups.jpeg)
 
 ![Securitygroup2](Securitygroup2.png)
 
