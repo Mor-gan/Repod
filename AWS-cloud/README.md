@@ -18,7 +18,7 @@
 
 ## Step 5. I launched and formatted a virtual terminal for instances to connect through ssh
 
-![instance-terminal](Instance-connectionjpeg)
+![instance-terminal](Instance-connection.jpeg)
 
 ## Step 6. I then checked connection by pinging from one instance to another
 
@@ -38,9 +38,9 @@
 
 ![pendingvpc](PendingConnection.jpeg)
 
-![Connectingvpc](ConnectingVPC.png)
+![Connectingvpc](ConnectingVPC.jpeg)
 
-## Step 2. I created an s3 bucket and made the object publicly accessible using an aws policy json.
+## Step 2. I created an s3 bucket and made the object publicly accessible using aws policy json.
 
 ![s3page](s3page.jpeg)
 
