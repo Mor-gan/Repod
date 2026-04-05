@@ -40,7 +40,11 @@
 
 ![Connectingvpc](ConnectingVPC.jpeg)
 
-## Step 2. I created an s3 bucket and made the object publicly accessible using aws policy json.
+## Step 2. I created an s3 bucket and made the object (created this manally and upload it to my bucket) publicly accessible using aws policy json.
 
 ![s3page](s3page.jpeg)
+
+## Step 3. I connected the S3 bucket to my first EC2 instance, added an object through the ACL that prints "Hello World from Nginx" on the browser.
+
+
 
