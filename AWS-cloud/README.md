@@ -46,6 +46,7 @@
 
 ## Step 3. I connected the S3 bucket to my first EC2 instance, added an object through the ACL that prints "Hello World from Nginx" on the browser.
 
+### - Created an IAM role to give s3 permission to ec2 and enabled public access blocking.
 ### - Update permission to all full s3 access
 ### - Ensured s3 object is printed directly on the ec2 page
 
