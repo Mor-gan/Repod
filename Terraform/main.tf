@@ -1,3 +1,5 @@
+# required version = "~> 1.0.0"
+
 provider "aws" {
   region = "eu-west-2"
   
