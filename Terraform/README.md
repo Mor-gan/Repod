@@ -4,4 +4,4 @@
 
 ### Step 1 : Declares AWS as the cloud provider, specifying the target region along with the access key and secret key credentials (removed the latter for security purpose).
 
-
+### Step 2 : Declares AWS as the cloud provider, specifying the target region along with the access key and secret key credentials (removed the latter for security purpose).
