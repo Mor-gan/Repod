@@ -7,4 +7,6 @@
 ### Step 2 : I created a security group allowing HTTP from anywhere, SSH from one IP, and all outbound traffic.
 ** **
 
-### Step 2 : Created a t3.micro EC2 instance using Amazon Linux, then attached the defined security group, and runs a startup script that installs, starts, and serves a basic Apache web page.
+### Step 3 : Created a t3.micro EC2 instance using Amazon Linux, then attached the defined security group, and runs a startup script that installs, starts, and serves a basic Apache web page.
+
+### Step 4 : I then Outputs the public IP address of the created EC2 instance after Terraform applies the configuration.
